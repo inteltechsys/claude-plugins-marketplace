@@ -1,13 +1,13 @@
 {
-  "name": "denis-plugins",
+  "name": "denis-marketplace",
   "description": "Plugins Claude Code de Denis Clairbois pour le workflow bash / pentest",
   "owner": {
     "name": "Denis Clairbois"
   },
   "plugins": [
     {
-      "name": "bash-course-hooks",
-      "source": "./plugins/bash-course-hooks",
+      "name": "bash-course-plugin",
+      "source": "./plugins/bash-course-plugin",
       "description": "Hooks de sécurité et de qualité, skill et agent de revue pour scripts bash"
     }
   ]
